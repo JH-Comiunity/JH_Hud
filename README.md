@@ -3,7 +3,7 @@ Fivem Simple Hud
 
 Instllation 
 
-- extract folder
+- extract folder and move this into your resources folder
 - rename JH_Hud
 - put in server.cfg start JH_Hud 
 
