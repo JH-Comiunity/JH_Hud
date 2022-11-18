@@ -1,7 +1,7 @@
 # JH_Hud
 Fivem Simple Hud
 
-Instllation 
+Installation 
 
 - extract folder and move this into your resources folder
 - rename JH_Hud
